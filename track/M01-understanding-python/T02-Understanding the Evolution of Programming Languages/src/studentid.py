@@ -1,0 +1,11 @@
+print("---------------------")
+
+print("STUDENT PROFILE")
+
+print("Name: Alex")
+
+print("Course: Python")
+
+print("Level: Beginner")
+
+print("----------------------")
